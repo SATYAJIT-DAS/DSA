@@ -3,6 +3,7 @@ s = input()
 # ac, bc, cc = 0
 
 while s > 0 and s<= 1000000:
+    
     p1, p2 = input().split()
     swapCounter(p1,p2)
     
